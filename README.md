@@ -5,6 +5,6 @@
 [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://github.com/fixikscz/Fixpedia/blob/main/OS/osx.md)  
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://github.com/fixikscz/Fixpedia/blob/main/OS/osx.md)  
 ## Network
-[![LAN](https://img.shields.io/badge/LAN-blue?style=for-the-badge)](https://www.google.com)  
+[![LAN ](https://img.shields.io/badge/LAN-blue?style=for-the-badge)](https://www.google.com)  
 [![WLAN](https://img.shields.io/badge/WLAN-green?style=for-the-badge)](https://www.google.com)    
 ## Equipment repair
