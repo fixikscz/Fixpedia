@@ -8,4 +8,4 @@
 <a href='https://github.com/fixikscz/Fixpedia/blob/main/Network/LAN/lan.md' target="_blank"><img alt='moleculer' src='https://img.shields.io/badge/LAN-100000?style=for-the-badge&logo=moleculer&logoColor=FFFFFF&labelColor=22324C&color=0ED04F'/></a>  
 <a href='https://github.com/fixikscz/Fixpedia/blob/main/Network/WLAN/wlan.md' target="_blank"><img alt='spotify' src='https://img.shields.io/badge/WLAN-100000?style=for-the-badge&logo=spotify&logoColor=FFFFFF&labelColor=22324C&color=0C9CD0'/></a>  
 ## Equipment repair
-<a href='https://github.com/fixikscz/Fixpedia/blob/main/Hardware/Hardware/hardware.md' target="_blank"><img alt='googlesearchconsole' src='https://img.shields.io/badge/Hardware-100000?style=for-the-badge&logo=googlesearchconsole&logoColor=FFFFFF&labelColor=22324C&color=F7DB04'/></a>
+<a href='https://github.com/fixikscz/Fixpedia/blob/main/Hardware/hardware.md' target="_blank"><img alt='googlesearchconsole' src='https://img.shields.io/badge/Hardware-100000?style=for-the-badge&logo=googlesearchconsole&logoColor=FFFFFF&labelColor=22324C&color=F7DB04'/></a>
